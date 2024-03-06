@@ -18,3 +18,5 @@ python consume.py
 ```
 
 
+### registry ex
+![alt text](img/1.png)

@@ -20,3 +20,6 @@ python consume.py
 
 ### registry ex
 ![alt text](img/1.png)
+
+### kafka for ui
+![alt text](img/2.png)
